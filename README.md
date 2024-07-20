@@ -1,2 +1,3 @@
-# projeto-imgem
-montando imagem com HTML e CSS
+# Projeto-imgem
+Montando imagem com HTML e CSS
+Aprendi a colocar Imagem com background-image
